@@ -1,0 +1,22 @@
+{
+  "name": "@danil.fomchik/test-npm-package",
+  "main": "lib",
+  "types": "lib",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "tsc",
+    "start": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danilfomchik/test-npm-package.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danilfomchik/test-npm-package/issues"
+  },
+  "homepage": "https://github.com/danilfomchik/test-npm-package#readme"
+}
