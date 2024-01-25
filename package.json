@@ -2,7 +2,7 @@
   "name": "@danil.fomchik/test-npm-package",
   "main": "lib",
   "types": "lib",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "scripts": {
     "build": "tsc",
