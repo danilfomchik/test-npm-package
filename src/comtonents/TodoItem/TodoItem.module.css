@@ -1,0 +1,17 @@
+.item {
+    padding: 10px 5px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    min-width: 60dvw;
+    text-wrap: wrap;
+}
+
+.buttons {
+    display: flex;
+    gap: 10px;
+}
+
+.buttons button:first-child {
+    color: red;
+}
